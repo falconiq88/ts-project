@@ -14,6 +14,6 @@ cd /home/ubuntu/ts-app/
 #install node modules
 npm install
 
-# sudo npx prisma generate
+ sudo npx prisma generate
 #start our node app in the background
 # sudo node index.js > index.out.log 2> index.err.log < /dev/null &
