@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #give permission for everything in the express-app directory
-# sudo chmod -R 777 /home/ubuntu/node-app/src
+sudo chmod -R 777 /home/ubuntu/node-app/
 
 #navigate into our working directory where we have all our github files
 cd /home/ubuntu/ts-app/
